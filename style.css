@@ -1,10 +1,22 @@
+@import url(https://fonts.googleapis.com/css2?family=Young+Serif&family=Outfit:wght@400;600;700&display=swap');
+
+* {
+   
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 body {
-font-family: ;
-font-size: ;
-background-color: var(--stone-100);
-color: var(--stone-600);
+
+font-family: 'Outfit', sans-serif;
+font-size: 16px;
+background-color: hsl(30, 54, 90);
+color: hsl(30, 10, 34);    
 display: flex;
 justify-content: center;
+align-items: center;
 min-height: 100vh;
 padding: 40px 20px;
+
 }
