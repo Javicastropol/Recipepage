@@ -120,3 +120,9 @@ hr {
     border-bottom: none;
 }
 
+.bold-brown {
+
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+    
+}
